@@ -1,0 +1,21 @@
+commandos Colas:
+Insertar elementos: para insertar un elemento al final de la cola, podemos usar la función push().
+
+Eliminar elementos: para quitar el elemento del principio de la cola, podemos usar la función pop().
+
+Ver cuál es el primer elemento de la cola: para ver cuál es este elemento, podemos usar la función front(). Esto es muy útil, ya que pop() únicamente quitará el primer elemento de la cola, pero no nos dirá cuál es. Esta es una diferencia fundamental entre C++ y otros lenguajes, así que los que vengáis de otros lenguajes tenéis que acordaros de esto, que tiende a ser un bug muy común.
+
+Ver cuál es el último elemento de la cola: hay un equivalente de la función front() para el final de la cola, la función back().
+
+Ver cuántos elementos tiene la cola: para saber esto, podemos utilizar la función size(). Además, podremos saber si la cola está vacía con la función empty().
+
+
+
+commando pilas:
+Insertar elementos: para insertar un elemento en la parte de arriba de la pila, podemos usar la función push().
+
+Eliminar elementos: para quitar el elemento de arriba del todo de la pila, podemos usar la función pop().
+
+Ver cuál es el elemento de arriba del todo de la pila: para ver cuál es este elemento, podemos usar la función top(). Esto es muy útil, ya que pop() únicamente quitará el primer elemento de la pila, pero no nos dirá cuál es. Esta es una diferencia fundamental entre C++ y otros lenguajes, así que los que vengáis de otros lenguajes tenéis que acordaros de esto, que tiende a ser un bug muy común.
+
+Ver cuántos elementos tiene la pila: para saber esto, podemos utilizar la función size(). Además, podremos saber si la pila está vacía con la función empty().
