@@ -1,0 +1,36 @@
+Comandos Listas:
+Nombre	Descripción
+assign	Borra elementos de una lista y copia un nuevo conjunto de elementos a la lista de destino.
+back	Devuelve una referencia al último elemento de una lista.
+begin	Devuelve un iterador que dirige al primer elemento de una lista.
+cbegin	Devuelve un iterador constante que dirige al primer elemento de una lista.
+cend	Devuelve un iterador constante que dirige a la ubicación siguiente al último elemento de una lista.
+clear	Borra todos los elementos de una lista.
+crbegin:	Devuelve un iterador constante que dirige al primer elemento de una lista invertida.
+crend:	Devuelve un iterador constante que dirige a la ubicación siguiente al último elemento de una lista invertida.
+emplace:	Inserta en una posición especificada de una lista un elemento construido en contexto.
+emplace_back:	Agrega un elemento construido en contexto al final de una lista.
+emplace_front:	Agrega un elemento construido en contexto al principio de una lista.
+empty:	Comprueba si una lista está vacía.
+end:	Devuelve un iterador que dirige a la ubicación que sigue al último elemento de una lista.
+erase:	Quita un elemento o un intervalo de elementos de una lista de las posiciones especificadas.
+front:	Devuelve una referencia al primer elemento de una lista.
+get_allocator:	Devuelve una copia del objeto allocator utilizado para construir una lista.
+insert:	Inserta un elemento, varios elementos o un intervalo de elementos en una lista en una posición especificada.
+max_size:	Devuelve la longitud máxima de una lista.
+merge:	Quita los elementos de la lista de argumentos, los inserta en la lista de objetivo y ordena el nuevo conjunto combinado de elementos en orden ascendente o en otro orden especificado.
+pop_back:	Elimina el elemento situado al final de una lista.
+pop_front:	Elimina el elemento situado al principio de una lista.
+push_back:	Agrega un elemento al final de una lista.
+push_front:	Agrega un elemento al principio de una lista.
+rbegin:	Devuelve un iterador que dirige al primer elemento de una lista invertida.
+remove:	Borra los elementos de una lista que coinciden con un valor especificado.
+remove_if:	Borra elementos de la lista para la que se cumple un predicado especificado.
+rend:	Devuelve un iterador que dirige a la ubicación siguiente al último elemento de una lista invertida.
+resize:	Especifica un nuevo tamaño de una lista.
+reverse:	Invierte el orden en que aparecen los elementos en una lista.
+size:	Devuelve el número de elementos de una lista.
+sort:	Organiza los elementos de una lista en orden ascendente o con respecto a otra relación de ordenación.
+splice:	Quita los elementos de la lista de argumentos y los inserta en la lista de destino.
+swap:	Intercambia los elementos de dos listas.
+unique:	Quita de la lista los elementos duplicados adyacentes o los elementos adyacentes que cumplan algún otro predicado binario.
